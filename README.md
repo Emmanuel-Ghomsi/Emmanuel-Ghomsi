@@ -63,5 +63,8 @@ Si vous cherchez un partenaire de développement logiciel expérimenté et passi
 </p>
                
 ## Statistiques
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuel-ghomsi&show_icons=true&locale=en&layout=compact" alt="emmanuel-ghomsi" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=emmanuel-ghomsi&show_icons=true&locale=en" alt="emmanuel-ghomsi" /></p>
+<a href="https://app.daily.dev/emmanuelghomsi335"><img src="https://api.daily.dev/devcards/01dc0f0bcac14c4797cbb919db5b34ea.png?r=z8s" width="400" alt="Emmanuel Ghomsi Ghomsi's Dev Card"/></a>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuel-ghomsi&show_icons=true&locale=en&layout=compact" alt="emmanuel-ghomsi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emmanuel-ghomsi&show_icons=true&locale=en" alt="emmanuel-ghomsi" />
+</p>
