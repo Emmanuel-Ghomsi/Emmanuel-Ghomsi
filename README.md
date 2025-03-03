@@ -32,7 +32,9 @@ Je suis un **ingénieur logiciel et consultant** passionné par les technologies
 <p>
   <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
+  <a href="https://fastify.dev/"><img src="https://github.com/fastify/graphics/blob/main/fastify-1000px-square-01.png" alt="Fastify" width="40" height="40"/></a>
   <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
+  <a href="https://laravel.com/"><img src="https://github.com/laravel/art/blob/master/laravel-logo.png" alt="Laravel" width="40" height="40"/></a>
 </p>
 
 ### **Frontend**
@@ -41,12 +43,14 @@ Je suis un **ingénieur logiciel et consultant** passionné par les technologies
   <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
   <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
   <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
+  <a href="https://supabase.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/></a>
 </p>
 
 ### **Base de données**
 <p>
   <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://www.prisma.io/"><img src="https://github.com/prisma/presskit/blob/main/Assets/Prisma-LightSymbol.png" alt="Prisma" width="40" height="40"/></a>
 </p>
 
 ### **DevOps & Cloud**
