@@ -93,7 +93,7 @@ Je suis un **ingénieur logiciel et consultant** passionné par les technologies
 
 💡 **Contactez-moi :**  
 <p>
-  <a href="https://twitter.com/ghomsiemmanuel" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://twitter.com/GhomsiEmmanuel" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/emmanuel-ghomsi-ghomsi-7b97671b4/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="mailto:emmanuelghomsi21@gmail.com"><img src="https://img.icons8.com/ios/50/000000/email.png" alt="Email" height="30" width="40"/></a>
 </p>
