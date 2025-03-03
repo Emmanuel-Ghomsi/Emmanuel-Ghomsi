@@ -73,6 +73,7 @@ Je suis un **ingénieur logiciel et consultant** passionné par les technologies
 
 ## 📂 **Projets Open Source & Contributions**
 🔹 [**Boilerplate Clean Architecture avec Node.js & TypeScript**](https://github.com/Emmanuel-Ghomsi/boilerplate-node)
+🔹 [**Docker Deployment Templates - PostgreSQL, MongoDB & Keycloak**](https://github.com/Emmanuel-Ghomsi/docker-deployment-templates)
 
 📌 **Contributions à d'autres projets open-source en cours...**  
 
