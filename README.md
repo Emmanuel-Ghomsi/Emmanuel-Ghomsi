@@ -1,70 +1,94 @@
-# Bonjour, je suis Ghomsi Ghomsi Emmanuel !
+# 👋 Bonjour, je suis **Ghomsi Ghomsi Emmanuel**  
 
-Je suis un ingénieur logiciel passionné par les nouvelles technologies, basé à Yaoundé au Cameroun. Mon crédo est d'accompagner les entreprises et les particuliers dans la réalisation de leurs projets informatiques. Je suis également un amoureux de la formation, j'aime former et me former au quotidien.
+🚀 **Ingénieur Logiciel | Consultant Full-Stack & DevOps | Formateur & Coach Agile**  
+📍 **Yaoundé, Cameroun** | 🌍 **Disponible en télétravail et en mission sur site**  
 
-Je suis un développeur full-stack avec une expertise dans la gestion agile de projets. J'ai travaillé sur des projets de développement logiciel dans des environnements variés, allant des petites entreprises aux grandes organisations.
+---
 
-Je suis également compétent en DevOps, ce qui me permet de m'assurer que les projets que je gère sont bien conçus, testés et déployés de manière efficace. J'aime travailler avec les technologies les plus récentes et je suis constamment en train d'explorer de nouveaux outils pour améliorer mon workflow.
+## 🎯 **À propos de moi**  
+Je suis un **ingénieur logiciel et consultant** passionné par les technologies modernes et l'optimisation des systèmes. J’aide les entreprises à **concevoir, développer et déployer** des solutions **scalables et robustes**, en intégrant les meilleures pratiques en **Clean Code, Clean Architecture et DevOps**.
 
-En tant que formateur passionné, j'aime partager mes connaissances avec les autres. J'ai formé de nombreux étudiants et professionnels et j'ai aidé des entreprises à mettre en place des programmes de formation efficaces.
+💡 **Mes services** :  
+- **Développement Full-Stack & DevOps** : De l'architecture à la mise en production  
+- **Consulting & Coaching Agile** : Accompagnement des équipes sur les bonnes pratiques  
+- **Formation** : Sessions de formation pour développeurs et entreprises (Backend, DevOps, CI/CD, Cloud, etc.)
 
-Je maîtrise plusieurs technologies, dont Laravel, Nodejs, React, Angular, Spring Boot, et Flutter. J'ai une expérience significative dans la programmation logicielle et j'ai travaillé sur divers projets, allant des applications web aux applications mobiles.
+📌 **Je suis à la recherche de missions en freelance ou de partenariats en consulting & formation.**  
 
-Sur mon profil GitHub, vous pouvez trouver certains de mes projets personnels, ainsi que mes contributions à des projets open source. J'aime contribuer à des projets open source car cela me permet de travailler avec d'autres développeurs talentueux et de contribuer à des projets qui ont un impact positif sur la communauté.
+---
 
-Si vous cherchez un partenaire de développement logiciel expérimenté et passionné pour vous aider dans votre projet, n'hésitez pas à me contacter. Je suis toujours heureux de discuter de nouveaux projets passionnants !
+## 🚀 **Compétences clés**
+✔️ **Développement Full-Stack** : Backend, Frontend, Mobile  
+✔️ **Clean Architecture & Best Practices** : Code maintenable et scalable  
+✔️ **DevOps & Cloud** : CI/CD, Docker, Kubernetes, Monitoring  
+✔️ **Gestion de projet & Méthodes Agiles** : Scrum, Kanban  
+✔️ **Formation & Mentorat** : Coaching technique et accompagnement des équipes  
 
-## Compétences
-- Gestion Agile de projet
-- Programmation logicielle
-- DevOps
-- Formateur
+---
 
-## Technologies
+## 🛠️ **Technologies & Outils**
 
-#### Backend
+### **Backend**
 <p>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
+  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
 </p>
 
-#### Frontend
+### **Frontend**
 <p>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
+  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
 </p>
 
-#### Librairies CSS & SCSS
+### **Base de données**
 <p>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
 </p>
 
-#### Base de données
+### **DevOps & Cloud**
 <p>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
 </p>
 
-#### DevOps
+---
+
+## 📜 **Certifications**
+📌 **Certifications obtenues** :  
+- 📍 **Gérer des plannings de projet** – *Project Management Institute* (2024)  
+- 📍 **Fondamentaux de la gestion de projet : Les questions éthiques** – *Project Management Institute* (2024)  
+- 📍 **Fondamentaux du Marketing Numérique** – *Google Ateliers Numériques* (2022)  
+- 📍 **The Art of Management – Winning Concepts and Strategies** – *Swiss eLearning Institute* (2019) 
+
+---
+
+## 📂 **Projets Open Source & Contributions**
+🔹 [**Boilerplate Clean Architecture avec Node.js & TypeScript**](https://github.com/Emmanuel-Ghomsi/boilerplate-node)
+
+📌 **Contributions à d'autres projets open-source en cours...**  
+
+---
+
+## 📊 **Statistiques GitHub**
 <p>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuel-ghomsi&show_icons=true&locale=en&layout=compact" alt="Top Langages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emmanuel-ghomsi&show_icons=true&locale=en" alt="Statistiques GitHub" />
 </p>
 
-## Me contacter
+---
+
+## 🤝 **Travaillons ensemble !**
+📩 **Besoin d’un consultant, formateur ou développeur ?**  
+📌 Je suis disponible pour des **missions freelance, consulting et coaching**.  
+
+💡 **Contactez-moi :**  
 <p>
-  <a href="https://twitter.com/ghomsiemmanuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emmanuelghomsi" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/emmanuel-ghomsi-ghomsi-7b97671b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel-ghomsi-ghomsi-7b97671b4" height="30" width="40" /></a>
-</p>
-               
-## Statistiques
-<a href="https://app.daily.dev/emmanuelghomsi335"><img src="https://api.daily.dev/devcards/01dc0f0bcac14c4797cbb919db5b34ea.png?r=z8s" width="400" alt="Emmanuel Ghomsi Ghomsi's Dev Card"/></a>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuel-ghomsi&show_icons=true&locale=en&layout=compact" alt="emmanuel-ghomsi" />
-  <img src="https://github-readme-stats.vercel.app/api?username=emmanuel-ghomsi&show_icons=true&locale=en" alt="emmanuel-ghomsi" />
+  <a href="https://twitter.com/ghomsiemmanuel" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/emmanuel-ghomsi-ghomsi-7b97671b4" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:emmanuelghomsi21@gmail.com"><img src="https://img.icons8.com/ios/50/000000/email.png" alt="Email" height="30" width="40"/></a>
 </p>
