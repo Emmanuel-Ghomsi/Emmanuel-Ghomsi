@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis **Ghomsi Ghomsi Emmanuel**  
 
 🚀 **Ingénieur Logiciel | Consultant Full-Stack & DevOps | Formateur & Coach Agile**  
-📍 **Yaoundé, Cameroun** | 🌍 **Disponible en télétravail et en mission sur site**  
+📍 **Douala, Cameroun** | 🌍 **Disponible en télétravail et en mission sur site**  
 
 ---
 
