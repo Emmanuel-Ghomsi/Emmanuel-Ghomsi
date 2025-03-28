@@ -80,10 +80,10 @@ Je suis un **ingénieur logiciel et consultant** passionné par les technologies
 ---
 
 ## 📊 **Statistiques GitHub**
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuel-ghomsi&show_icons=true&locale=en&layout=compact" alt="Top Langages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=emmanuel-ghomsi&show_icons=true&locale=en" alt="Statistiques GitHub" />
-</p>
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=emmanuel-ghomsi&show_icons=true&locale=en&layout=compact&theme=tokyonigh)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=emmanuel-ghomsi&show_icons=true&locale=fr&theme=tokyonigh")
 
 ---
 
