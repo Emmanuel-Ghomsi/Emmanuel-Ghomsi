@@ -35,15 +35,14 @@ Je suis un **ingénieur logiciel et consultant** passionné par les technologies
   <a href="https://fastify.dev/"><img src="https://github.com/fastify/graphics/blob/main/fastify-1000px-square-01.png" alt="Fastify" width="40" height="40"/></a>
   <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
   <a href="https://laravel.com/"><img src="https://github.com/laravel/art/blob/master/laravel-logo.png" alt="Laravel" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/fr/"><img src="https://github.com/user-attachments/assets/b5f275f4-c1c3-41cc-a5f2-4d281859a51e" alt="FastAPI" width="40" height="40"/></a>
 </p>
 
 ### **Frontend**
 <p>
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
   <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
   <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://supabase.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/></a>
 </p>
 
 ### **Base de données**
@@ -72,8 +71,8 @@ Je suis un **ingénieur logiciel et consultant** passionné par les technologies
 ---
 
 ## 📂 **Projets Open Source & Contributions**
-- 🔹 [**Boilerplate Clean Architecture avec Node.js & TypeScript**](https://github.com/Emmanuel-Ghomsi/boilerplate-node)
-- 🔹 [**Docker Deployment Templates - PostgreSQL, MongoDB & Keycloak**](https://github.com/Emmanuel-Ghomsi/docker-deployment-templates)
+- 🔹 [**Document Generator API**](https://github.com/Emmanuel-Ghomsi/docgen-api)
+- 🔹 [**Docker Deployment Templates**](https://github.com/Emmanuel-Ghomsi/docker-deployment-templates)
 
 📌 **Contributions à d'autres projets open-source en cours...**  
 
